@@ -220,7 +220,7 @@ public class latihanCombobox extends javax.swing.JFrame {
             jLabel2.setText("Rp. " + harga);
         }else if(jComboBox1.getSelectedIndex() == 2 ){
             
-            harga = 200000;
+            harga = 20000;
             menu = "tahu Semur";
             jLabel2.setText("Rp. " + harga);
         }else if(jComboBox1.getSelectedIndex() ==3){
